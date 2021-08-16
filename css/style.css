@@ -1,0 +1,24 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.headimg{
+    background: url('../images/web1.png') no-repeat fixed center;
+    color:whitesmoke; 
+    
+    
+}
+.jumbotron{
+    height: 50vh;
+    background-size: cover;
+}
+#sub-text{
+    border-bottom: 5px solid red;
+}
+.links{
+    text-decoration: none;
+    color: black;
+    
+}
